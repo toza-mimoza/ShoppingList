@@ -1,0 +1,29 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping list electron desktop app.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Svetozar Stojanovic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/toza-mimoza/Electron-Shopping-List.git"
+  },
+  "keywords": [
+    "Electron",
+    "shopping",
+    "list",
+    "desktop",
+    "app"
+  ],
+  "bugs": {
+    "url": "https://github.com/toza-mimoza/Electron-Shopping-List/issues"
+  },
+  "homepage": "https://github.com/toza-mimoza/Electron-Shopping-List#readme",
+  "dependencies": {
+    "electron": "^17.1.2"
+  }
+}
